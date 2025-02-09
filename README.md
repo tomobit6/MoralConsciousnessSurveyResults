@@ -9,6 +9,7 @@
     - [1・2年1回目様式](https://docs.google.com/forms/d/1sW5VxlJwssp_eZXEipg3bHS1Sv2KiXJn9oy2HGWk-CI/edit)　[1・2年2回目様式](https://docs.google.com/forms/d/1gCxjfpWNqgHs_pC8_-94GDuMor8nEE6YfzbPp3ZSUN8/edit)
     - [3・4年様式](https://docs.google.com/forms/d/1PyFQd7vF4r7WEKtcpKlE7hlxAPXOaUiipoBHSsQJUfE/edit)
     - [5・6年様式](https://docs.google.com/forms/d/19pedhnWsaVu5_4K9ylZU1DegkmnGi4gZVGMOYT4z_eo/edit)
- 3. 
+ 3. 利用イメージ
+    - [GoogleForm回答イメージ](https://github.com/user-attachments/assets/1338c87d-ecdc-4d3e-8e83-955a6f2227a9)
 ## 工夫した点と課題
 GoogleFormで回答した集計データをcsvファイルにすると、文字化けするためExcelのxlsxファイルで保存し取り込むようにしています。
