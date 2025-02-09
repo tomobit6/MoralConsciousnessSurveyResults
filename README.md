@@ -19,6 +19,8 @@
 3. **利用イメージ**：
     - GoogleForm回答イメージ  
     ![GoogleForm回答イメージ](https://github.com/user-attachments/assets/77fbb11b-0167-4bfd-a282-c31461b2b0f6)
+    - 集計ツールへ反映イメージ  
+    https://github.com/user-attachments/assets/32c0bbe4-c865-4d6a-aa20-a8a1413b46bf
 
 ## 工夫した点と課題
 
