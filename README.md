@@ -11,5 +11,6 @@
     - [5・6年様式](https://docs.google.com/forms/d/19pedhnWsaVu5_4K9ylZU1DegkmnGi4gZVGMOYT4z_eo/edit)
  3. 利用イメージ
     - [GoogleForm回答イメージ](https://github.com/user-attachments/assets/1338c87d-ecdc-4d3e-8e83-955a6f2227a9)
+    - https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1kdW9vM2YwcXJiang3YWN0cmNmdzR5d3Fyc3diY20xZTRlZXlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHEefmt5XVrloDx114/giphy.gif
 ## 工夫した点と課題
 GoogleFormで回答した集計データをcsvファイルにすると、文字化けするためExcelのxlsxファイルで保存し取り込むようにしています。
