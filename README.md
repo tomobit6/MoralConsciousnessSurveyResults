@@ -20,7 +20,7 @@
     - GoogleForm回答イメージ  
     ![Image](https://github.com/user-attachments/assets/77fbb11b-0167-4bfd-a282-c31461b2b0f6)
     - 集計ツールへ反映イメージ  
-    ![Image](https://github.com/user-attachments/assets/2aec3ccf-78b4-43f3-93eb-b52a5101a760)
+    ![Image](https://github.com/user-attachments/assets/ddd84226-7496-46a8-a005-c6c0a62ba5ad)
 ## 工夫した点と課題
 
 - **工夫した点**：  
