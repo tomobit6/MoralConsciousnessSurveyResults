@@ -18,10 +18,9 @@
     - [5・6年様式](https://docs.google.com/forms/d/19pedhnWsaVu5_4K9ylZU1DegkmnGi4gZVGMOYT4z_eo/edit)
 3. **利用イメージ**：
     - GoogleForm回答イメージ  
-    ![GoogleForm回答イメージ](https://github.com/user-attachments/assets/77fbb11b-0167-4bfd-a282-c31461b2b0f6)
+    ![Image](https://github.com/user-attachments/assets/77fbb11b-0167-4bfd-a282-c31461b2b0f6)
     - 集計ツールへ反映イメージ  
-    https://github.com/user-attachments/assets/32c0bbe4-c865-4d6a-aa20-a8a1413b46bf
-
+    ![Image](https://github.com/user-attachments/assets/2aec3ccf-78b4-43f3-93eb-b52a5101a760)
 ## 工夫した点と課題
 
 - **工夫した点**：  
